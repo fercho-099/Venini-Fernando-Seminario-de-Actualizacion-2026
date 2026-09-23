@@ -75,3 +75,5 @@ streamlit run app.py
 ```
 
 Desde nuestro VS Code, en la consola, nos da una URL local y ahí podemos ver la aplicación.
+
+**La url de streamlit en cloud es: https://appprueba-526jbeljq2zxduhvpzyxxp.streamlit.app/**
