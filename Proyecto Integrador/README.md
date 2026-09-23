@@ -11,3 +11,5 @@ license: mit
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+**La url de Gradio en Render es: https://proyecto-integrador-f0v7.onrender.com/**
